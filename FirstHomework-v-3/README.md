@@ -1,0 +1,2 @@
+## Question3
+In a console application, ask the user to enter a positive number (n). Then ask the user to enter n words. Print the words entered by the user from the end to the beginning to the console.

@@ -1,0 +1,16 @@
+C:\Users\erhnt\Desktop\Homeworks\FirstHomework-v-2\bin\Debug\net5.0\FirstHomework-v-2.exe
+C:\Users\erhnt\Desktop\Homeworks\FirstHomework-v-2\bin\Debug\net5.0\FirstHomework-v-2.deps.json
+C:\Users\erhnt\Desktop\Homeworks\FirstHomework-v-2\bin\Debug\net5.0\FirstHomework-v-2.runtimeconfig.json
+C:\Users\erhnt\Desktop\Homeworks\FirstHomework-v-2\bin\Debug\net5.0\FirstHomework-v-2.runtimeconfig.dev.json
+C:\Users\erhnt\Desktop\Homeworks\FirstHomework-v-2\bin\Debug\net5.0\FirstHomework-v-2.dll
+C:\Users\erhnt\Desktop\Homeworks\FirstHomework-v-2\bin\Debug\net5.0\FirstHomework-v-2.pdb
+C:\Users\erhnt\Desktop\Homeworks\FirstHomework-v-2\obj\Debug\net5.0\FirstHomework-v-2.csproj.AssemblyReference.cache
+C:\Users\erhnt\Desktop\Homeworks\FirstHomework-v-2\obj\Debug\net5.0\FirstHomework-v-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erhnt\Desktop\Homeworks\FirstHomework-v-2\obj\Debug\net5.0\FirstHomework-v-2.AssemblyInfoInputs.cache
+C:\Users\erhnt\Desktop\Homeworks\FirstHomework-v-2\obj\Debug\net5.0\FirstHomework-v-2.AssemblyInfo.cs
+C:\Users\erhnt\Desktop\Homeworks\FirstHomework-v-2\obj\Debug\net5.0\FirstHomework-v-2.csproj.CoreCompileInputs.cache
+C:\Users\erhnt\Desktop\Homeworks\FirstHomework-v-2\obj\Debug\net5.0\FirstHomework-v-2.dll
+C:\Users\erhnt\Desktop\Homeworks\FirstHomework-v-2\obj\Debug\net5.0\refint\FirstHomework-v-2.dll
+C:\Users\erhnt\Desktop\Homeworks\FirstHomework-v-2\obj\Debug\net5.0\FirstHomework-v-2.pdb
+C:\Users\erhnt\Desktop\Homeworks\FirstHomework-v-2\obj\Debug\net5.0\FirstHomework-v-2.genruntimeconfig.cache
+C:\Users\erhnt\Desktop\Homeworks\FirstHomework-v-2\obj\Debug\net5.0\ref\FirstHomework-v-2.dll

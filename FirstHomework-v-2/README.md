@@ -1,0 +1,2 @@
+## Question2
+In a console application, ask the user to enter two positive numbers (n, m). Then ask the user to enter n positive numbers. From the numbers entered by the user, print the numbers that are divisible by m to the console.
